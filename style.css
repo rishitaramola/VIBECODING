@@ -84,7 +84,7 @@ h1, h2, h3, .logo {
 }
 
 /* ─── Buttons ─── */
-button, .cta-button {
+button, .cta-button, .primary-btn, .secondary-btn {
   font-family: var(--font-body);
   cursor: pointer;
   border: none;
